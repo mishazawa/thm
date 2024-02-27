@@ -1,6 +1,6 @@
 # TryHackMe: Free Cybersecurity Path
 
-This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
+This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain.
 
 It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit, all available at no cost.
 
@@ -13,7 +13,8 @@ Upon completion, you will have established a robust foundation in cybersecurity,
     <h2>Instructions</h2>
   </summary>
 
-  You can find instructions on how to use this repository at [INSTRUCTIONS.md](/INSTRUCTIONS.md).
+You can find instructions on how to use this repository at [INSTRUCTIONS.md](/INSTRUCTIONS.md).
+
 </details>
 
 <br/>
@@ -22,11 +23,11 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- ☐ -->
 
 | Status | Room Title                                                                    | Category            | Write-up                                 |
-| ---    | ---                                                                           | ---                 | ---                                      |
-| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
-| ☐      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
-| ☐      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               | [done](write-ups/level1/Welcome)         |
-| ☐      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
+| ------ | ----------------------------------------------------------------------------- | ------------------- | ---------------------------------------- |
+| ☑      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
+| ☑      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
+| ☑      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               | [done](write-ups/level1/Welcome)         |
+| ☑      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
 | ☐      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
 | ☐      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
 | ☐      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
@@ -132,4 +133,3 @@ Upon completion, you will have established a robust foundation in cybersecurity,
   - Create your challenge rooms for TryHackMe.
   - Did you like reverse engineering? How about Windows? Or perhaps PrivEsc? You can specialize in one area if you like it. Just search for rooms with that on TryHackMe, or ask in the Discord/Forums/Sub-reddit "I liked X and want to do more".
 </details>
-
