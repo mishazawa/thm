@@ -30,7 +30,7 @@ You can find instructions on how to use this repository at [INSTRUCTIONS.md](/IN
 | ☑      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
 | ☑      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
 | ☑      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
-| ☐      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
+| ☑      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
 | ☐      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
 | ☐      | [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)         | Intro               |                                          |
 | ☐      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
